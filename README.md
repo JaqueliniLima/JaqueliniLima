@@ -1,9 +1,9 @@
 ### Olá! 👋
 
-<div align="center">
+<div>
   <a href="https://github.com/JaqueliniLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaqueliniLima&show_icons=true&include_all_commits=true&count_private=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueliniLima&langs_count=8&show_icons=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaqueliniLima&show_icons=true&include_all_commits=true&count_private=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueliniLima&langs_count=8&show_icons=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29&hide=php"/></a>
 </div>
 
 <div style="display: inline_block"><br>
