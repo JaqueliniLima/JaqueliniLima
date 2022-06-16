@@ -1,5 +1,25 @@
-### Hi there 👋
+### Olá! 👋
 
+<div>
+  <a href="https://github.com/JaqueliniLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaqueliniLima&show_icons=true&include_all_commits=true&count_private=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaqueliniLima&langs_count=8&show_icons=true&title_color=215a6d&icon_color=92394b&text_color=2d2d29"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="JAQUE-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/922263156947054632/987102313481113690/picasion.com_a980658697981afab99dace5ae6ac7f6.gif?width=676&height=676">
+<div> 
+
+  
+  ## 
+ 
+  ![Snake animation](https://github.com/JaqueliniLima/JaqueliniLima/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <!--
 **JaqueliniLima/JaqueliniLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
